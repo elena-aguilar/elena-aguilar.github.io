@@ -118,6 +118,83 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/images\/portfolio\/ST01_1993_ELENAGUILAR_COLLAGE_PORTADA_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 623272,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_COLLAGE_PORTADA_2.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_COLLAGE_PORTADA_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9536.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.38738e+06,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9536.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9536.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9547.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.53967e+06,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9547.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9547.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9558.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.65267e+06,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9558.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9558.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9568.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9568.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9568.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9576.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.86121e+06,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9576.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9576.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9605.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.7404e+06,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9605.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9605.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 1,
