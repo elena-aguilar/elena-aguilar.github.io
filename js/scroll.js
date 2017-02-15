@@ -7,7 +7,7 @@ $('.project-nav-item').on('click', function() {
 
     $('body,html').animate({
         scrollTop: scrollPoint
-    }, 500);
+    }, 0);
 
     return false;
 
@@ -52,3 +52,4 @@ $(window).scroll(function() {
 // $('.project-view-section').on('click', function(){
 //     $('.project-nav-section').removeClass('hover');
 // });
+
