@@ -877,6 +877,59 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/portfolio\/ST02_ELENAGUILAR_VIRGULTA_FOTO_PRODUCTO_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 289860,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST02_ELENAGUILAR_VIRGULTA_FOTO_PRODUCTO_01.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST02_ELENAGUILAR_VIRGULTA_FOTO_PRODUCTO_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio\/ST02_ELENAGUILAR_VIRGULTA_FOTO_PRODUCTO_02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 335585,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST02_ELENAGUILAR_VIRGULTA_FOTO_PRODUCTO_02.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST02_ELENAGUILAR_VIRGULTA_FOTO_PRODUCTO_02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio\/ST02_ELENAGUILAR_VIRGULTA_FOTO_PRODUCTO_03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 272402,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST02_ELENAGUILAR_VIRGULTA_FOTO_PRODUCTO_03.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST02_ELENAGUILAR_VIRGULTA_FOTO_PRODUCTO_03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio\/ST02_VIRGULTA_PORTADA_ELENAGUILAR_7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 419201,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST02_VIRGULTA_PORTADA_ELENAGUILAR_7.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST02_VIRGULTA_PORTADA_ELENAGUILAR_7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
@@ -975,6 +1028,61 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/ST03_IAN-G_NYCTOFILIA_ELENAGUILAR_PARTES_DE_LA_NOCHE.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 350996,
+		"inputAbbreviatedPath": "\/ST03_IAN-G_NYCTOFILIA_ELENAGUILAR_PARTES_DE_LA_NOCHE.jpg",
+		"outputAbbreviatedPath": "\/ST03_IAN-G_NYCTOFILIA_ELENAGUILAR_PARTES_DE_LA_NOCHE.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/ST03_IAN-G_NYCTOFILIA_ELENAGUILAR_PORTADA_ALBUM.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.94635e+06,
+		"inputAbbreviatedPath": "\/ST03_IAN-G_NYCTOFILIA_ELENAGUILAR_PORTADA_ALBUM.jpg",
+		"outputAbbreviatedPath": "\/ST03_IAN-G_NYCTOFILIA_ELENAGUILAR_PORTADA_ALBUM.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 139034,
+		"inputAbbreviatedPath": "\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_2.jpg",
+		"outputAbbreviatedPath": "\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 247845,
+		"inputAbbreviatedPath": "\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_6.jpg",
+		"outputAbbreviatedPath": "\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 153871,
+		"inputAbbreviatedPath": "\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_7.jpg",
+		"outputAbbreviatedPath": "\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		}
 	},
 "hooks": [
