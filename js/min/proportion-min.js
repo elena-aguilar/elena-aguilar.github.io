@@ -1,0 +1,1 @@
+function setProportion(){var e=document.getElementsByClassName("project-img"),t=document.getElementById("hey").naturalWidth,o=document.getElementById("hey").naturalHeight,n=o/t*100,m,l;for(m=document.getElementsByClassName("project-img"),l=0;l<m.length;++l)console.log("hey")}setProportion();

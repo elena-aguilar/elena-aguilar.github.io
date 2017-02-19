@@ -1199,16 +1199,14 @@ img {
 
 .project-item {
   position: relative;
-  border: 1px solid red; }
-  .project-item .project-img {
-    display: block; }
+  padding-top: 71%;
+  margin-bottom: 32px; }
 
 .project-img {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  display: none; }
+  width: 100%; }
 
 .project-title {
   margin-bottom: 0; }

@@ -5,9 +5,11 @@ $('.project-nav-item').on('click', function() {
     var scrollAnchor = $(this).attr('data-scroll'),
         scrollPoint = $('[data-anchor="' + scrollAnchor + '"]').offset().top - 28;
 
-    $('body,html').animate({
-        scrollTop: scrollPoint
-    }, 0);
+    // $('body,html').animate({
+    //     scrollTop: scrollPoint
+    // }, 500);
+
+    $('body,html').scrollTop(scrollPoint);
 
     return false;
 
@@ -26,7 +28,6 @@ $(window).scroll(function() {
             if ($(this).position().top <= windscroll + 200) {
                 $('.project-nav-item.active').removeClass('active');
                 $('.project-nav-item').eq(i).addClass('active');
-                $('.project-nav-item').eq(i).addClass('visited');
             }
         });
 
@@ -52,44 +53,3 @@ $(window).scroll(function() {
 // $('.project-view-section').on('click', function(){
 //     $('.project-nav-section').removeClass('hover');
 // });
-
-// var e = $('img' + id);
-// e.load(function() {
-//    (e.width() / e.height()) > 1.6 ? e.attr('width', 160): e.attr('height', 100);
-// });
-
-
-function setProportion() {
-    var projImg = document.getElementById('hey').parentElement;
-
-    var projImgW = document.getElementById('hey').naturalWidth;
-    var projImgH = document.getElementById('hey').naturalHeight;
-    var projImgProp = projImgH / projImgW * 100;
-
-    projImg.style.paddingBottom = projImgProp + '%';
-}
-
-setProportion();
-
-// var myStringArray = ["Hello","World"];
-// var arrayLength = myStringArray.length;
-// for (var i = 0; i < arrayLength; i++) {
-    
-//     // console.log(myStringArray[i]);
-//     //Do something
-
-//     document.getElementsByClassName('test').width;
-// }
-
-
-
-// function setvalue(){
-//     for(i=0;i<projImg.length;i++){
-//         projImg.setAttribute("text","number");
-//     }
-// }
-
-// (function() {
-//    setvalue()
-
-// })();
