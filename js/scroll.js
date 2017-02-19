@@ -25,7 +25,7 @@ $(window).scroll(function() {
         $(".project-nav-section-holder").height(projectNavHeight);
         $('body').addClass('scrolled');
         $('.project-title').each(function(i) {
-            if ($(this).position().top <= windscroll + 200) {
+            if ($(this).position().top <= windscroll + 500) {
                 $('.project-nav-item.active').removeClass('active');
                 $('.project-nav-item').eq(i).addClass('active');
             }
@@ -38,6 +38,7 @@ $(window).scroll(function() {
     }
 
 }).scroll();
+
 
 // $('.project-nav-section').hover(
 //   function() {
