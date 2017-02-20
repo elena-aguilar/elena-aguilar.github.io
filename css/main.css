@@ -1206,10 +1206,23 @@ img {
   z-index: 120; }
 
 .project-title {
-  margin-bottom: 0; }
+  margin-bottom: 24px; }
 
 .project {
   padding-top: 296px; }
 
 .project-description {
   margin-bottom: 64px; }
+  .project-description p {
+    margin-top: 0; }
+  .project-description a {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3); }
+    .project-description a:hover {
+      border-color: blue;
+      color: blue; }
+
+.project-role {
+  color: #999;
+  margin-bottom: 64px; }
+  .project-role p {
+    margin: 0; }

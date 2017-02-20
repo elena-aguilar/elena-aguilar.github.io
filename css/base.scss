@@ -130,7 +130,7 @@ img {
 }
 
 .project-title {
-  margin-bottom: 0;
+  margin-bottom: 24px;
 }
 
 .project {
@@ -139,4 +139,26 @@ img {
 
 .project-description {
   margin-bottom: 64px;
+
+  p {
+    margin-top: 0;
+  }
+
+  a {
+    border-bottom: 1px solid rgba(0,0,0,.3);
+
+    &:hover {
+      border-color: rgb(0,0,255);
+      color: rgb(0,0,255);
+    }
+  }
+}
+
+.project-role {
+  color: #999;
+  margin-bottom: 64px;
+
+  p {
+    margin: 0;
+  }
 }
