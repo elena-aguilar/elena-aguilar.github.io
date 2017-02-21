@@ -1132,8 +1132,11 @@ img {
 .project-nav-section-header-title {
   margin: 0 0 8px 0;
   opacity: 0;
+  pointer-events: none;
   -webkit-transition: .2s;
   transition: .2s; }
+  .scrolled .project-nav-section-header-title {
+    pointer-events: auto; }
   .project-nav-section-header-title span {
     margin: 0 8px; }
 
@@ -1216,7 +1219,9 @@ img {
   .project-description p {
     margin-top: 0; }
   .project-description a {
-    border-bottom: 1px solid rgba(0, 0, 0, 0.3); }
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+    -webkit-transition: .4s;
+    transition: .4s; }
     .project-description a:hover {
       border-color: blue;
       color: blue; }
@@ -1226,3 +1231,14 @@ img {
   margin-bottom: 64px; }
   .project-role p {
     margin: 0; }
+
+.social-links {
+  margin-top: 24px; }
+
+.social-link {
+  margin-right: 16px;
+  border-bottom: 1px solid transparent;
+  -webkit-transition: .4s;
+  transition: .4s; }
+  .social-link:hover {
+    border-color: blue; }
