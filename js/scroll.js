@@ -40,17 +40,6 @@ $(window).scroll(function() {
 }).scroll();
 
 
-// $('.project-nav-section').hover(
-//   function() {
-//     $( this ).addClass( "hover" );
-//   }, function() {
-//     $( this ).removeClass( "hover" );
-//   }
-// );
-
-// $('.project-nav-section').on('click', function(){
-//     $(this).addClass('hover');
-// });
-// $('.project-view-section').on('click', function(){
-//     $('.project-nav-section').removeClass('hover');
-// });
+$('.project-nav-item').on('click', function() {
+    $('.nav-toggle-check').prop('checked', false);
+})

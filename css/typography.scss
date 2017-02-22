@@ -5,6 +5,11 @@ body {
   font-family: 'Founders Grotesk';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  @media(max-width: 768px) {
+    font-size: 16px;
+    line-height: 24px;
+  }
 }
 
 h1, .h1 {

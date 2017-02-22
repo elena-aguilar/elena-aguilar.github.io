@@ -16,6 +16,10 @@ img {
 
 .section {
   padding: 0 64px;
+
+  @media(max-width: 768px) {
+    padding: 0 32px;    
+  }
 }
 
 .intro-wrapper {
@@ -40,13 +44,18 @@ img {
 .intro-text {
   margin-top: 0;
   margin-bottom: 0;
+
+  @media(max-width: 768px) {
+    font-size: 24px;
+    line-height: 32px;
+  }
 }
 
 .project-nav-section-header-title {
-  margin: 0 0 8px 0;
   opacity: 0;
   pointer-events: none;
   transition: .2s;
+  display: inline-block;
 
   .scrolled & {
     pointer-events: auto;
@@ -78,6 +87,36 @@ img {
     .project-nav-section-header-title {
       opacity: 1;
     }
+  }
+}
+
+.project-nav-items {
+  margin: 8px 0 0 0;
+  @media(max-width: 768px) {
+    display: none;
+    height: 100vh;
+  }
+}
+.nav-toggle-check {
+  position: absolute;
+  opacity: 0;
+  
+  &:checked ~ .project-nav-items {
+    display: block;
+  }
+}
+
+.nav-toggle-label {
+  display: inline-block;
+
+  @media(min-width: 768px) {
+    pointer-events: none;
+  }
+
+  opacity: 0;
+
+  .scrolled & {
+    opacity: 1;
   }
 }
 
@@ -113,6 +152,11 @@ img {
   &.visited {
     text-decoration: line-through;
   }
+
+  @media(max-width: 768px) {
+    font-size: 24px;
+    line-height: 32px;
+  }
 }
 
 .project-view-section {
@@ -124,14 +168,16 @@ img {
   padding-top: 71%;
   margin-bottom: 32px;
   overflow: hidden;
-  z-index: 120;
+  
+  @media(min-width: 768px) {
+    z-index: 120;
+  }
 }
 .project-img {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 120;
 }
 
 .project-title {
@@ -140,6 +186,10 @@ img {
 
 .project {
   padding-top: 296px;
+
+  @media(max-width: 768px) {
+    padding-top: 128px;
+  }
 }
 
 .project-description {
