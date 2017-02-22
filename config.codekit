@@ -27,24 +27,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/flexboxgrid.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/flexboxgrid.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/css\/flexboxgrid.scss": {
+	"\/css\/grid.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/flexboxgrid.scss",
-		"outputAbbreviatedPath": "\/css\/flexboxgrid.css",
+		"inputAbbreviatedPath": "\/css\/grid.scss",
+		"outputAbbreviatedPath": "\/css\/grid.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -118,22 +109,33 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/images\/portfolio\/2014COMPLETO_ENERO_MES_MAYKELLIMA+ELENAGUILAR.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/portfolio\/2014COMPLETO_ENERO_MES_MAYKELLIMA+ELENAGUILAR.png",
+		"outputAbbreviatedPath": "\/images\/portfolio\/2014COMPLETO_ENERO_MES_MAYKELLIMA+ELENAGUILAR.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/images\/portfolio\/BELLEVILLE_CORPORATE_IDENTITY_ELENAGUILAR_CARTEL_DICIEMBRE.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.2171e+06,
+		"initialSize": 300936,
 		"inputAbbreviatedPath": "\/images\/portfolio\/BELLEVILLE_CORPORATE_IDENTITY_ELENAGUILAR_CARTEL_DICIEMBRE.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/BELLEVILLE_CORPORATE_IDENTITY_ELENAGUILAR_CARTEL_DICIEMBRE.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/BELLEVILLE_CORPORATE_IDENTITY_ELENAGUILAR_CARTEL_ENERO.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 486361,
+		"initialSize": 167550,
 		"inputAbbreviatedPath": "\/images\/portfolio\/BELLEVILLE_CORPORATE_IDENTITY_ELENAGUILAR_CARTEL_ENERO.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/BELLEVILLE_CORPORATE_IDENTITY_ELENAGUILAR_CARTEL_ENERO.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -144,34 +146,34 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 926448,
+		"initialSize": 320789,
 		"inputAbbreviatedPath": "\/images\/portfolio\/BELLEVILLE_CORPORATE_IDENTITY_ELENAGUILAR_CARTEL_FEBRERO.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/BELLEVILLE_CORPORATE_IDENTITY_ELENAGUILAR_CARTEL_FEBRERO.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/BELLEVILLE_CORPORATE_IDENTITY_ELENAGUILAR_LOGO.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 100775,
+		"initialSize": 48428,
 		"inputAbbreviatedPath": "\/images\/portfolio\/BELLEVILLE_CORPORATE_IDENTITY_ELENAGUILAR_LOGO.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/BELLEVILLE_CORPORATE_IDENTITY_ELENAGUILAR_LOGO.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/BELLEVILLE_CORPORATE_IDENTITY_ELENAGUILAR_MOODBOARD.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 649189,
+		"initialSize": 428572,
 		"inputAbbreviatedPath": "\/images\/portfolio\/BELLEVILLE_CORPORATE_IDENTITY_ELENAGUILAR_MOODBOARD.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/BELLEVILLE_CORPORATE_IDENTITY_ELENAGUILAR_MOODBOARD.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/bored_1.jpg": {
 		"fileType": 16384,
@@ -182,7 +184,7 @@
 		"outputAbbreviatedPath": "\/images\/portfolio\/bored_1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/bored_2.jpg": {
 		"fileType": 16384,
@@ -193,7 +195,7 @@
 		"outputAbbreviatedPath": "\/images\/portfolio\/bored_2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/bored_3_.jpg": {
 		"fileType": 16384,
@@ -204,172 +206,172 @@
 		"outputAbbreviatedPath": "\/images\/portfolio\/bored_3_.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/COLLAGE_69_ELENAGUILAR_4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 461777,
+		"initialSize": 157356,
 		"inputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_69_ELENAGUILAR_4.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_69_ELENAGUILAR_4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/COLLAGE_AH_ELENAGUILAR_7.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 784397,
+		"initialSize": 245032,
 		"inputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_AH_ELENAGUILAR_7.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_AH_ELENAGUILAR_7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/COLLAGE_AW_ELENAGUILAR_5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 449174,
+		"initialSize": 163215,
 		"inputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_AW_ELENAGUILAR_5.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_AW_ELENAGUILAR_5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/COLLAGE_AY!_ELENAGUILAR_8.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 942241,
+		"initialSize": 265535,
 		"inputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_AY!_ELENAGUILAR_8.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_AY!_ELENAGUILAR_8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/COLLAGE_ER_ELENAGUILAR_10.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 675721,
+		"initialSize": 219430,
 		"inputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_ER_ELENAGUILAR_10.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_ER_ELENAGUILAR_10.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/COLLAGE_EX_ELENAGUILAR_6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 400478,
+		"initialSize": 140310,
 		"inputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_EX_ELENAGUILAR_6.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_EX_ELENAGUILAR_6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/COLLAGE_FAY_ELENAGUILAR_11.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.04445e+06,
+		"initialSize": 340404,
 		"inputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_FAY_ELENAGUILAR_11.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_FAY_ELENAGUILAR_11.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/COLLAGE_FLESH_ELENAGUILAR_1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 843063,
+		"initialSize": 270281,
 		"inputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_FLESH_ELENAGUILAR_1.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_FLESH_ELENAGUILAR_1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/COLLAGE_FLESH_ELENAGUILAR_12.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.16135e+06,
+		"initialSize": 345458,
 		"inputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_FLESH_ELENAGUILAR_12.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_FLESH_ELENAGUILAR_12.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/COLLAGE_FLESH_ELENAGUILAR_15.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 190668,
+		"initialSize": 62176,
 		"inputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_FLESH_ELENAGUILAR_15.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_FLESH_ELENAGUILAR_15.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/COLLAGE_FLESH_ELENAGUILAR_2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 746882,
+		"initialSize": 227431,
 		"inputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_FLESH_ELENAGUILAR_2.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_FLESH_ELENAGUILAR_2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/COLLAGE_FLESH_ELENAGUILAR_3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 405680,
+		"initialSize": 129160,
 		"inputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_FLESH_ELENAGUILAR_3.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_FLESH_ELENAGUILAR_3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/COLLAGE_ML_ELENAGUILAR_16.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 555036,
+		"initialSize": 233202,
 		"inputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_ML_ELENAGUILAR_16.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_ML_ELENAGUILAR_16.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/COLLAGE_MM_ELENAGUILAR_13.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 732455,
+		"initialSize": 243056,
 		"inputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_MM_ELENAGUILAR_13.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_MM_ELENAGUILAR_13.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/COLLAGE_NINJA_FLESH_ELENAGUILAR_14.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 400417,
 		"inputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_NINJA_FLESH_ELENAGUILAR_14.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_NINJA_FLESH_ELENAGUILAR_14.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/COLLAGE_ON PAPER_FOR_ACRONYM_GIG_GIRADISCOS_ELENAGUILAR.jpg": {
 		"fileType": 16384,
@@ -380,7 +382,7 @@
 		"outputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_ON PAPER_FOR_ACRONYM_GIG_GIRADISCOS_ELENAGUILAR.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/COLLAGE_ON_PAPER_FOR_SILENT_SERVANT_GIG_GIRADISCOS_ELENAGUILAR.jpg": {
 		"fileType": 16384,
@@ -391,29 +393,29 @@
 		"outputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_ON_PAPER_FOR_SILENT_SERVANT_GIG_GIRADISCOS_ELENAGUILAR.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/COLLAGE_PERSPECTIVE_ELENAGUILAR_9.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2.01673e+06,
+		"initialSize": 569095,
 		"inputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_PERSPECTIVE_ELENAGUILAR_9.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/COLLAGE_PERSPECTIVE_ELENAGUILAR_9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/CRUMB_CORPORATE_IDENTITY_ELENAGUILAR_CARDS.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.56506e+06,
+		"initialSize": 392589,
 		"inputAbbreviatedPath": "\/images\/portfolio\/CRUMB_CORPORATE_IDENTITY_ELENAGUILAR_CARDS.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/CRUMB_CORPORATE_IDENTITY_ELENAGUILAR_CARDS.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/CRUMB_CORPORATE_IDENTITY_ELENAGUILAR_IMG_01.jpg": {
 		"fileType": 16384,
@@ -424,40 +426,40 @@
 		"outputAbbreviatedPath": "\/images\/portfolio\/CRUMB_CORPORATE_IDENTITY_ELENAGUILAR_IMG_01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/CRUMB_CORPORATE_IDENTITY_ELENAGUILAR_IMG_02.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.95592e+06,
+		"initialSize": 566555,
 		"inputAbbreviatedPath": "\/images\/portfolio\/CRUMB_CORPORATE_IDENTITY_ELENAGUILAR_IMG_02.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/CRUMB_CORPORATE_IDENTITY_ELENAGUILAR_IMG_02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/CRUMB_CORPORATE_IDENTITY_ELENAGUILAR_LOGO.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 213587,
+		"initialSize": 82697,
 		"inputAbbreviatedPath": "\/images\/portfolio\/CRUMB_CORPORATE_IDENTITY_ELENAGUILAR_LOGO.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/CRUMB_CORPORATE_IDENTITY_ELENAGUILAR_LOGO.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/CRUMB_CORPORATE_IDENTITY_ELENAGUILAR_MENU.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.59269e+06,
+		"initialSize": 574703,
 		"inputAbbreviatedPath": "\/images\/portfolio\/CRUMB_CORPORATE_IDENTITY_ELENAGUILAR_MENU.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/CRUMB_CORPORATE_IDENTITY_ELENAGUILAR_MENU.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/CRUMB_CORPORATE_IDENTITY_ELENAGUILAR_SYMBOL.jpg": {
 		"fileType": 16384,
@@ -468,84 +470,84 @@
 		"outputAbbreviatedPath": "\/images\/portfolio\/CRUMB_CORPORATE_IDENTITY_ELENAGUILAR_SYMBOL.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/CRUMB_CORPORATE_IDENTITY_ELENAGUILAR_TOTE_BAG.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.44892e+06,
+		"initialSize": 479167,
 		"inputAbbreviatedPath": "\/images\/portfolio\/CRUMB_CORPORATE_IDENTITY_ELENAGUILAR_TOTE_BAG.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/CRUMB_CORPORATE_IDENTITY_ELENAGUILAR_TOTE_BAG.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/images\/portfolio\/F_Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_1.jpg": {
+	"\/images\/portfolio\/F&Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.61884e+06,
-		"inputAbbreviatedPath": "\/images\/portfolio\/F_Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_1.jpg",
-		"outputAbbreviatedPath": "\/images\/portfolio\/F_Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_1.jpg",
+		"initialSize": 468471,
+		"inputAbbreviatedPath": "\/images\/portfolio\/F&Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_1.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/F&Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/images\/portfolio\/F_Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_2.jpg": {
+	"\/images\/portfolio\/F&Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 941960,
-		"inputAbbreviatedPath": "\/images\/portfolio\/F_Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_2.jpg",
-		"outputAbbreviatedPath": "\/images\/portfolio\/F_Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_2.jpg",
+		"initialSize": 300410,
+		"inputAbbreviatedPath": "\/images\/portfolio\/F&Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_2.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/F&Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/images\/portfolio\/F_Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_3.jpg": {
+	"\/images\/portfolio\/F&Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2.0993e+06,
-		"inputAbbreviatedPath": "\/images\/portfolio\/F_Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_3.jpg",
-		"outputAbbreviatedPath": "\/images\/portfolio\/F_Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_3.jpg",
+		"initialSize": 583856,
+		"inputAbbreviatedPath": "\/images\/portfolio\/F&Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_3.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/F&Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/images\/portfolio\/F_Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_5.jpg": {
+	"\/images\/portfolio\/F&Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2.48696e+06,
-		"inputAbbreviatedPath": "\/images\/portfolio\/F_Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_5.jpg",
-		"outputAbbreviatedPath": "\/images\/portfolio\/F_Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_5.jpg",
+		"initialSize": 789185,
+		"inputAbbreviatedPath": "\/images\/portfolio\/F&Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_5.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/F&Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_APLICACION_5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/images\/portfolio\/F_Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_LOGO.jpg": {
+	"\/images\/portfolio\/F&Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_LOGO.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 117180,
-		"inputAbbreviatedPath": "\/images\/portfolio\/F_Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_LOGO.jpg",
-		"outputAbbreviatedPath": "\/images\/portfolio\/F_Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_LOGO.jpg",
+		"inputAbbreviatedPath": "\/images\/portfolio\/F&Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_LOGO.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/F&Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_LOGO.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/images\/portfolio\/F_Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_MOODBOARD.jpg": {
+	"\/images\/portfolio\/F&Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_MOODBOARD.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 646458,
-		"inputAbbreviatedPath": "\/images\/portfolio\/F_Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_MOODBOARD.jpg",
-		"outputAbbreviatedPath": "\/images\/portfolio\/F_Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_MOODBOARD.jpg",
+		"initialSize": 513270,
+		"inputAbbreviatedPath": "\/images\/portfolio\/F&Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_MOODBOARD.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/F&Q_LAB_CORPORATE_IDENTITY_ELENAGUILAR_MOODBOARD.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/FLYER_BLUETRAIN+ROTTEN_CITY_ELENAGUILAR.jpg": {
 		"fileType": 16384,
@@ -556,150 +558,161 @@
 		"outputAbbreviatedPath": "\/images\/portfolio\/FLYER_BLUETRAIN+ROTTEN_CITY_ELENAGUILAR.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/GATOS_NEGROS_7TH_LIFE_ROTTEN_CITY_ALBUM_COVER_ELENAGUILAR_.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2.05947e+06,
+		"initialSize": 678755,
 		"inputAbbreviatedPath": "\/images\/portfolio\/GATOS_NEGROS_7TH_LIFE_ROTTEN_CITY_ALBUM_COVER_ELENAGUILAR_.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/GATOS_NEGROS_7TH_LIFE_ROTTEN_CITY_ALBUM_COVER_ELENAGUILAR_.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/images\/portfolio\/GATOS_NEGROS_MOODBOARD_ROTTENCITY_ALBUM_ELENAGUILAR.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 603203,
+		"inputAbbreviatedPath": "\/images\/portfolio\/GATOS_NEGROS_MOODBOARD_ROTTENCITY_ALBUM_ELENAGUILAR.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/GATOS_NEGROS_MOODBOARD_ROTTENCITY_ALBUM_ELENAGUILAR.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/images\/portfolio\/GATOS_NEGROS_ROTTEN_CITY_MOCKUP_2_CD_DIGIPACK_ELENAGUILAR.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.35335e+06,
+		"initialSize": 500565,
 		"inputAbbreviatedPath": "\/images\/portfolio\/GATOS_NEGROS_ROTTEN_CITY_MOCKUP_2_CD_DIGIPACK_ELENAGUILAR.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/GATOS_NEGROS_ROTTEN_CITY_MOCKUP_2_CD_DIGIPACK_ELENAGUILAR.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/GATOS_NEGROS_ROTTEN_CITY_MOCKUP_CD_DIGIPACK_ELENAGUILAR.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.73457e+06,
+		"initialSize": 462336,
 		"inputAbbreviatedPath": "\/images\/portfolio\/GATOS_NEGROS_ROTTEN_CITY_MOCKUP_CD_DIGIPACK_ELENAGUILAR.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/GATOS_NEGROS_ROTTEN_CITY_MOCKUP_CD_DIGIPACK_ELENAGUILAR.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/images\/portfolio\/JSA_CORPORATE_IDENTITY_LOGO.jpg": {
+	"\/images\/portfolio\/JSA_CORPORATE_IDENTITY_ELENAGUILAR_LOGO.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 347681,
-		"inputAbbreviatedPath": "\/images\/portfolio\/JSA_CORPORATE_IDENTITY_LOGO.jpg",
-		"outputAbbreviatedPath": "\/images\/portfolio\/JSA_CORPORATE_IDENTITY_LOGO.jpg",
+		"inputAbbreviatedPath": "\/images\/portfolio\/JSA_CORPORATE_IDENTITY_ELENAGUILAR_LOGO.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/JSA_CORPORATE_IDENTITY_ELENAGUILAR_LOGO.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/images\/portfolio\/JSA_CORPORATE_IDENTITY_MOODBOARD.jpg": {
+	"\/images\/portfolio\/JSA_CORPORATE_IDENTITY_ELENAGUILAR_MOODBOARD.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 347970,
-		"inputAbbreviatedPath": "\/images\/portfolio\/JSA_CORPORATE_IDENTITY_MOODBOARD.jpg",
-		"outputAbbreviatedPath": "\/images\/portfolio\/JSA_CORPORATE_IDENTITY_MOODBOARD.jpg",
+		"initialSize": 227629,
+		"inputAbbreviatedPath": "\/images\/portfolio\/JSA_CORPORATE_IDENTITY_ELENAGUILAR_MOODBOARD.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/JSA_CORPORATE_IDENTITY_ELENAGUILAR_MOODBOARD.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/images\/portfolio\/JSA_CORPORATE_IDENTITY_VISITING_CARD.jpg": {
+	"\/images\/portfolio\/JSA_CORPORATE_IDENTITY_ELENAGUILAR_VISITING_CARD.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.00965e+06,
-		"inputAbbreviatedPath": "\/images\/portfolio\/JSA_CORPORATE_IDENTITY_VISITING_CARD.jpg",
-		"outputAbbreviatedPath": "\/images\/portfolio\/JSA_CORPORATE_IDENTITY_VISITING_CARD.jpg",
+		"initialSize": 316538,
+		"inputAbbreviatedPath": "\/images\/portfolio\/JSA_CORPORATE_IDENTITY_ELENAGUILAR_VISITING_CARD.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/JSA_CORPORATE_IDENTITY_ELENAGUILAR_VISITING_CARD.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/images\/portfolio\/JSA_CORPORATE_IDENTITY_WEB.jpg": {
+	"\/images\/portfolio\/JSA_CORPORATE_IDENTITY_ELENAGUILAR_WEB.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 509165,
-		"inputAbbreviatedPath": "\/images\/portfolio\/JSA_CORPORATE_IDENTITY_WEB.jpg",
-		"outputAbbreviatedPath": "\/images\/portfolio\/JSA_CORPORATE_IDENTITY_WEB.jpg",
+		"initialSize": 180674,
+		"inputAbbreviatedPath": "\/images\/portfolio\/JSA_CORPORATE_IDENTITY_ELENAGUILAR_WEB.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/JSA_CORPORATE_IDENTITY_ELENAGUILAR_WEB.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/MORREO_COLLAGE_ELENAGUILAR_01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2.95424e+06,
+		"initialSize": 779591,
 		"inputAbbreviatedPath": "\/images\/portfolio\/MORREO_COLLAGE_ELENAGUILAR_01.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/MORREO_COLLAGE_ELENAGUILAR_01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/MORREO_COLLAGE_ELENAGUILAR_02.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2.7477e+06,
+		"initialSize": 687395,
 		"inputAbbreviatedPath": "\/images\/portfolio\/MORREO_COLLAGE_ELENAGUILAR_02.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/MORREO_COLLAGE_ELENAGUILAR_02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/MORREO_COLLAGE_ELENAGUILAR_03.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2.9628e+06,
+		"initialSize": 752098,
 		"inputAbbreviatedPath": "\/images\/portfolio\/MORREO_COLLAGE_ELENAGUILAR_03.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/MORREO_COLLAGE_ELENAGUILAR_03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/MORREO_COLLAGE_ELENAGUILAR_04.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2.94916e+06,
+		"initialSize": 754241,
 		"inputAbbreviatedPath": "\/images\/portfolio\/MORREO_COLLAGE_ELENAGUILAR_04.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/MORREO_COLLAGE_ELENAGUILAR_04.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/MORREO_COLLAGE_ELENAGUILAR_05.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2.95576e+06,
+		"initialSize": 718725,
 		"inputAbbreviatedPath": "\/images\/portfolio\/MORREO_COLLAGE_ELENAGUILAR_05.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/MORREO_COLLAGE_ELENAGUILAR_05.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/MORREO_COLLAGE_ELENAGUILAR_06.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2.88542e+06,
+		"initialSize": 713887,
 		"inputAbbreviatedPath": "\/images\/portfolio\/MORREO_COLLAGE_ELENAGUILAR_06.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/MORREO_COLLAGE_ELENAGUILAR_06.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/NATURE_POSTER_ABRIL_ELENAGUILAR.jpg": {
 		"fileType": 16384,
@@ -710,7 +723,7 @@
 		"outputAbbreviatedPath": "\/images\/portfolio\/NATURE_POSTER_ABRIL_ELENAGUILAR.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/NATURE_POSTER_MAYO_ELENAGUILAR.jpg": {
 		"fileType": 16384,
@@ -721,7 +734,7 @@
 		"outputAbbreviatedPath": "\/images\/portfolio\/NATURE_POSTER_MAYO_ELENAGUILAR.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/NATURE_POSTER_SEMANA_SANTA_ELENAGUILAR.jpg": {
 		"fileType": 16384,
@@ -732,29 +745,29 @@
 		"outputAbbreviatedPath": "\/images\/portfolio\/NATURE_POSTER_SEMANA_SANTA_ELENAGUILAR.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/POSTER_FOR_ACRONYM_GIG_GIRADISCOS_ELENAGUILAR.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 768927,
+		"initialSize": 275747,
 		"inputAbbreviatedPath": "\/images\/portfolio\/POSTER_FOR_ACRONYM_GIG_GIRADISCOS_ELENAGUILAR.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/POSTER_FOR_ACRONYM_GIG_GIRADISCOS_ELENAGUILAR.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/POSTER_FOR_SILENT_SERVANT_GIG_GIRADISCOS_ELENAGUILAR.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 856263,
+		"initialSize": 239359,
 		"inputAbbreviatedPath": "\/images\/portfolio\/POSTER_FOR_SILENT_SERVANT_GIG_GIRADISCOS_ELENAGUILAR.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/POSTER_FOR_SILENT_SERVANT_GIG_GIRADISCOS_ELENAGUILAR.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/RUMBA_POSTER_ABRIL_ELENAGUILAR.jpg": {
 		"fileType": 16384,
@@ -765,7 +778,7 @@
 		"outputAbbreviatedPath": "\/images\/portfolio\/RUMBA_POSTER_ABRIL_ELENAGUILAR.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/RUMBA_POSTER_FEBRERO_ELENAGUILAR.jpg": {
 		"fileType": 16384,
@@ -776,18 +789,18 @@
 		"outputAbbreviatedPath": "\/images\/portfolio\/RUMBA_POSTER_FEBRERO_ELENAGUILAR.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/RUMBA_POSTER_MARZO_ELENAGUILAR.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2.89773e+06,
+		"initialSize": 834447,
 		"inputAbbreviatedPath": "\/images\/portfolio\/RUMBA_POSTER_MARZO_ELENAGUILAR.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/RUMBA_POSTER_MARZO_ELENAGUILAR.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/SOLID_TAPES_LOGO_ELENAGUILAR.jpg": {
 		"fileType": 16384,
@@ -798,18 +811,29 @@
 		"outputAbbreviatedPath": "\/images\/portfolio\/SOLID_TAPES_LOGO_ELENAGUILAR.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/images\/portfolio\/SOLID_TAPES_MOODBOARD_CORPORATE_IDENTITY_ELENAGUILAR.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 231631,
+		"inputAbbreviatedPath": "\/images\/portfolio\/SOLID_TAPES_MOODBOARD_CORPORATE_IDENTITY_ELENAGUILAR.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/SOLID_TAPES_MOODBOARD_CORPORATE_IDENTITY_ELENAGUILAR.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/images\/portfolio\/ST01_1993_ELENAGUILAR_COLLAGE_PORTADA_2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 623272,
+		"initialSize": 169011,
 		"inputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_COLLAGE_PORTADA_2.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_COLLAGE_PORTADA_2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9536.jpg": {
 		"fileType": 16384,
@@ -820,29 +844,29 @@
 		"outputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9536.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9547.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.53967e+06,
+		"initialSize": 353391,
 		"inputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9547.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9547.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9558.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.65267e+06,
+		"initialSize": 400547,
 		"inputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9558.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9558.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9568.jpg": {
 		"fileType": 16384,
@@ -853,29 +877,29 @@
 		"outputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9568.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9576.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.86121e+06,
+		"initialSize": 496939,
 		"inputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9576.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9576.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9605.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.7404e+06,
+		"initialSize": 437802,
 		"inputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9605.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/ST01_1993_ELENAGUILAR_IMG_9605.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/ST02_ELENAGUILAR_VIRGULTA_FOTO_PRODUCTO_01.jpg": {
 		"fileType": 16384,
@@ -886,40 +910,392 @@
 		"outputAbbreviatedPath": "\/images\/portfolio\/ST02_ELENAGUILAR_VIRGULTA_FOTO_PRODUCTO_01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/ST02_ELENAGUILAR_VIRGULTA_FOTO_PRODUCTO_02.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 335585,
+		"initialSize": 339763,
 		"inputAbbreviatedPath": "\/images\/portfolio\/ST02_ELENAGUILAR_VIRGULTA_FOTO_PRODUCTO_02.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/ST02_ELENAGUILAR_VIRGULTA_FOTO_PRODUCTO_02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/ST02_ELENAGUILAR_VIRGULTA_FOTO_PRODUCTO_03.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 272402,
+		"initialSize": 284495,
 		"inputAbbreviatedPath": "\/images\/portfolio\/ST02_ELENAGUILAR_VIRGULTA_FOTO_PRODUCTO_03.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/ST02_ELENAGUILAR_VIRGULTA_FOTO_PRODUCTO_03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/portfolio\/ST02_VIRGULTA_PORTADA_ELENAGUILAR_7.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 419201,
+		"initialSize": 150853,
 		"inputAbbreviatedPath": "\/images\/portfolio\/ST02_VIRGULTA_PORTADA_ELENAGUILAR_7.jpg",
 		"outputAbbreviatedPath": "\/images\/portfolio\/ST02_VIRGULTA_PORTADA_ELENAGUILAR_7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/images\/portfolio\/ST03_IAN-G_NYCTOFILIA_ELENAGUILAR_PARTES_DE_LA_NOCHE.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 350996,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST03_IAN-G_NYCTOFILIA_ELENAGUILAR_PARTES_DE_LA_NOCHE.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST03_IAN-G_NYCTOFILIA_ELENAGUILAR_PARTES_DE_LA_NOCHE.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/ST03_IAN-G_NYCTOFILIA_ELENAGUILAR_PORTADA_ALBUM.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 643642,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST03_IAN-G_NYCTOFILIA_ELENAGUILAR_PORTADA_ALBUM.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST03_IAN-G_NYCTOFILIA_ELENAGUILAR_PORTADA_ALBUM.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 233799,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_2.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 382971,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_6.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 243533,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_7.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/ST04_GXNZX_ROHYPNOL_ELENAGUILAR-(beattape)_IMG_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST04_GXNZX_ROHYPNOL_ELENAGUILAR-(beattape)_IMG_1.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST04_GXNZX_ROHYPNOL_ELENAGUILAR-(beattape)_IMG_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/ST04_GXNZX_ROHYPNOL_ELENAGUILAR-(beattape)_IMG_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 566638,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST04_GXNZX_ROHYPNOL_ELENAGUILAR-(beattape)_IMG_2.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST04_GXNZX_ROHYPNOL_ELENAGUILAR-(beattape)_IMG_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/ST04_GXNZX_ROHYPNOL_ELENAGUILAR-(beattape)_IMG_5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 847732,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST04_GXNZX_ROHYPNOL_ELENAGUILAR-(beattape)_IMG_5.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST04_GXNZX_ROHYPNOL_ELENAGUILAR-(beattape)_IMG_5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/ST04_GXNZX_ROHYPNOL_ELENAGUILAR_PORTADA_ALBUM_.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 361326,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST04_GXNZX_ROHYPNOL_ELENAGUILAR_PORTADA_ALBUM_.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST04_GXNZX_ROHYPNOL_ELENAGUILAR_PORTADA_ALBUM_.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/ST05_BEAT_LOVE_SAVE_ELENAGUILAR_IMG_14.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 922656,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST05_BEAT_LOVE_SAVE_ELENAGUILAR_IMG_14.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST05_BEAT_LOVE_SAVE_ELENAGUILAR_IMG_14.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/ST05_BEAT_LOVE_SAVE_ELENAGUILAR_IMG_15.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 812966,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST05_BEAT_LOVE_SAVE_ELENAGUILAR_IMG_15.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST05_BEAT_LOVE_SAVE_ELENAGUILAR_IMG_15.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/ST05_BEAT_LOVE_SAVE_ELENAGUILAR_IMG_16.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 880188,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST05_BEAT_LOVE_SAVE_ELENAGUILAR_IMG_16.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST05_BEAT_LOVE_SAVE_ELENAGUILAR_IMG_16.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/ST05_BEAT_LOVE_SAVE_ELENAGUILAR_IMG_17.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 901856,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST05_BEAT_LOVE_SAVE_ELENAGUILAR_IMG_17.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST05_BEAT_LOVE_SAVE_ELENAGUILAR_IMG_17.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/ST05_BEAT_LOVE_SAVE_ELENAGUILAR_PORTADA_ALBUM_.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 492437,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST05_BEAT_LOVE_SAVE_ELENAGUILAR_PORTADA_ALBUM_.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST05_BEAT_LOVE_SAVE_ELENAGUILAR_PORTADA_ALBUM_.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/ST_MOODBOARD_ROTTENCITY_FLYER_ELENAGUILAR.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 766501,
+		"inputAbbreviatedPath": "\/images\/portfolio\/ST_MOODBOARD_ROTTENCITY_FLYER_ELENAGUILAR.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/ST_MOODBOARD_ROTTENCITY_FLYER_ELENAGUILAR.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8424.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 679213,
+		"inputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8424.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8424.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8434.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8434.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8434.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8439.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 548809,
+		"inputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8439.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8439.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8451.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8451.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8451.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8454.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8454.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8454.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8462.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 681817,
+		"inputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8462.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8462.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8469.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 542437,
+		"inputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8469.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_DB_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8469.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/UNIVERSAL_DB_MUSIC_CONCEPT_DESGIN_ELENAGUILAR_MOODBOARD.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 455287,
+		"inputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_DB_MUSIC_CONCEPT_DESGIN_ELENAGUILAR_MOODBOARD.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_DB_MUSIC_CONCEPT_DESGIN_ELENAGUILAR_MOODBOARD.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8220.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 649445,
+		"inputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8220.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8220.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8229.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.26422e+06,
+		"inputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8229.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8229.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8239.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 770868,
+		"inputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8239.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8239.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8247.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.86124e+06,
+		"inputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8247.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8247.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8250.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.60735e+06,
+		"inputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8250.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8250.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8253.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 428566,
+		"inputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8253.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8253.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8282.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.82343e+06,
+		"inputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8282.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8282.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8304.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 739056,
+		"inputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8304.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_MC_CONCEPT_MUSIC_DESGIN_ELENAGUILAR_IMG_8304.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/portfolio\/UNIVERSAL_MC_MUSIC_CONCEPT_DESGIN_ELENAGUILAR_MOODBOARD.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 500595,
+		"inputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_MC_MUSIC_CONCEPT_DESGIN_ELENAGUILAR_MOODBOARD.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio\/UNIVERSAL_MC_MUSIC_CONCEPT_DESGIN_ELENAGUILAR_MOODBOARD.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,
@@ -996,12 +1372,34 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/js\/min\/proportion-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/proportion-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/proportion-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/min\/scroll-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/min\/scroll-min.js",
 		"outputAbbreviatedPath": "\/js\/min\/min\/scroll-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/proportion.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/js\/proportion.js",
+		"outputAbbreviatedPath": "\/js\/min\/proportion-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -1028,61 +1426,6 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
-		},
-	"\/ST03_IAN-G_NYCTOFILIA_ELENAGUILAR_PARTES_DE_LA_NOCHE.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 350996,
-		"inputAbbreviatedPath": "\/ST03_IAN-G_NYCTOFILIA_ELENAGUILAR_PARTES_DE_LA_NOCHE.jpg",
-		"outputAbbreviatedPath": "\/ST03_IAN-G_NYCTOFILIA_ELENAGUILAR_PARTES_DE_LA_NOCHE.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/ST03_IAN-G_NYCTOFILIA_ELENAGUILAR_PORTADA_ALBUM.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2.94635e+06,
-		"inputAbbreviatedPath": "\/ST03_IAN-G_NYCTOFILIA_ELENAGUILAR_PORTADA_ALBUM.jpg",
-		"outputAbbreviatedPath": "\/ST03_IAN-G_NYCTOFILIA_ELENAGUILAR_PORTADA_ALBUM.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 139034,
-		"inputAbbreviatedPath": "\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_2.jpg",
-		"outputAbbreviatedPath": "\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_6.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 247845,
-		"inputAbbreviatedPath": "\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_6.jpg",
-		"outputAbbreviatedPath": "\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_6.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_7.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 153871,
-		"inputAbbreviatedPath": "\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_7.jpg",
-		"outputAbbreviatedPath": "\/ST03_IANG_NYCTOPHILIA_ELENAGUILAR_IMG_7.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
 		}
 	},
 "hooks": [
