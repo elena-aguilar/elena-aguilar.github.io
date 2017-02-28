@@ -24,14 +24,17 @@ html
             a.social-link(href="https://www.instagram.com/_elenaguilar/" target="_blank") Instagram
             a.social-link(href="https://www.behance.net/elenaguilar/" target="_blank") Behance
             a.social-link(href="https://www.linkedin.com/in/elena-aguilar-company-a459b673/" target="_blank") Linkedin
+            .email elenaguilardesign@gmail.com
       .project-nav-section-holder
       .project-nav-section
         .section
-          .project-nav-section-header-title 
+          .project-nav-section-header
             a(href="#") Elena Aguilar
-            span /
+            span.nav-separator /
+            label.nav-toggle-label(for="nav-toggle") Work
+            .other-projects-link
+              //- a(href="/other.html") Miscellaneous
 
-          label.nav-toggle-label(for="nav-toggle") Work
           input.nav-toggle-check(type="checkbox" id="nav-toggle")
           .project-nav-items
             a.project-nav-item(href="" data-scroll='solid') Solid Tapes
@@ -658,6 +661,12 @@ html
             .col-md-8.offset-md-2
               .project-item
                 img.project-img.lazy(src="images/portfolio/TOCADOS_CARNICOS_COLLAGE_ELENAGUILAR.gif")
+
+    .footer
+      .section 
+        | : website by 
+        a.link(href="http://hihayk.com/" target="_blank") hayk
+        |  :
 
 
     script(src='js/proportion.js')
