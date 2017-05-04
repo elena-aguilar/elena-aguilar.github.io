@@ -264,15 +264,35 @@ img {
   color: #999;
 }
 
-.other-header {
+.miscellaneous-header {
   padding: 32px 0;
 }
 
-.other-projects-link-list {
-  img {
-    @media(min-width: 768px) {
-      max-width: 320px;
-      margin: 0 16px 16px 0;
+.miscellaneous-projects-list {
+  @media(min-width: 768px) {
+    margin-left: -16px;
+    margin-right: -16px;
+    
+    img {
+      max-width: 50%;
+      padding-left: 16px;
+      padding-right: 16px;
+
+      &:nth-child(2n+1) {
+        margin: 0 0 256px 0;
+        padding-right: 16px;
+      }
+
+      &:nth-child(2n+2) {
+        margin: 128px 0 64px 0;
+        padding-left: 16px;
+      }
+
+      &:nth-child(3n+3) {
+        margin-left: 20%;
+        margin-bottom: 64px;
+      }
+
     }
   }
 }
